@@ -1,9 +1,9 @@
-openapi: 3.0.3
+openapi: 3.1.0
 info:
   title: Local Runner
   version: "1.0.0"
 servers:
-  - url: https://REPLACE_ME.tld
+  - url: https://a2201802c2a1.ngrok-free.app
 paths:
   /healthz:
     get:
